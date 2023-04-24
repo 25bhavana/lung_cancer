@@ -1,0 +1,4 @@
+CCCCCCCCCCCCCCCCCCOCC(COP(=O)(O)OCC[N+](C)(C)C)OCC comp1
+CCOc1nn(-c2cccc(OCc3ccccc3)c2)c(=O)o1 comp2
+O=C(N1CCCCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC1CC1 comp3
+CN(C(=O)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F)c1ccccc1 comp4
